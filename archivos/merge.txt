@@ -5,3 +5,5 @@
 - Aprender y aprobar la materia. 
 
 - Ahora si tiene contenido la carpeta.
+
+- Puede ocasionar un conflicto.
